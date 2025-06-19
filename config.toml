@@ -1,3 +1,8 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.41.0"
+
 baseURL = 'https://www.movementunbound.org'
 languageCode = 'en-us'
 paginate = 6
