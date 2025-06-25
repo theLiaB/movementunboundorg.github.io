@@ -1,8 +1,8 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://movementunbound.org'
 languageCode = 'en-us'
 paginate = 6
-theme= "coHub"
-title = 'coHub'
+theme= "hugo-coHub"
+title = 'Movement Unbound'
  
 
   # Main Menu
