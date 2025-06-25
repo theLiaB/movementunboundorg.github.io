@@ -4,7 +4,6 @@ languageCode = 'en-us'
   pagerSize = 10
 title = "Movement Unbound"
 theme= "hugo-cohub"
-title = 'coHub'
  
 
   # Main Menu
