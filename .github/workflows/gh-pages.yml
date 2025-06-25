@@ -23,10 +23,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload site to artifact
+      - name: Upload static site
         uses: actions/upload-pages-artifact@v2
         with:
-          path: .  # This is the root directory containing index.html
+          path: .  # adjust if your HTML files are inside a folder like 'dist'
 
   deploy:
     needs: build
