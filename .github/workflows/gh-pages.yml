@@ -24,7 +24,7 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Upload static site
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .  # adjust if your HTML files are inside a folder like 'dist'
 
