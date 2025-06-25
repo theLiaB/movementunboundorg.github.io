@@ -1,6 +1,7 @@
 baseURL = 'https://www.movementunbound.org'
 languageCode = 'en-us'
-paginate = 6
+[pagination]
+  pagerSize = 10
 theme= "hugo-cohub"
 title = 'coHub'
  
