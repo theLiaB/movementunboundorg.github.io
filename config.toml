@@ -1,7 +1,8 @@
-baseURL = 'https://www.movementunbound.org'
+baseURL = 'https://movementunbound.org/'
 languageCode = 'en-us'
 [pagination]
   pagerSize = 10
+title = "Movement Unbound"
 theme= "hugo-cohub"
 title = 'coHub'
  
