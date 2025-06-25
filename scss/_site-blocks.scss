@@ -709,6 +709,7 @@ $italic: 'Vollkorn', serif;
 		@include media-breakpoint-down(lg) {
 			
 				width: 100%!important;
+				min-width: 120px;
 				display: block;
 			
 		}
