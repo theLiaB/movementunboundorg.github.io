@@ -1,7 +1,7 @@
 baseURL = 'https://movementunbound.org'
 languageCode = 'en-us'
 paginate = 6
-theme= "hugo-coHub"
+theme= "hugo-cohub"
 title = 'Movement Unbound'
  
 
