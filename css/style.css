@@ -1868,7 +1868,7 @@ figure figcaption {
 .block-testimony-1 {
   padding: 20px; }
   .block-testimony-1 blockquote {
-    background: #ffdd40;
+    background: rgb(252, 163, 17);
     padding: 30px;
     font-style: italic;
     font-weight: 400;
