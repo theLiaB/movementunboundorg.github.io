@@ -82,8 +82,8 @@ body:after {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: #037ef3;
-    border-color: #037ef3;
+    background: rgb(29, 53, 87);
+    border-color: rgb(29, 53, 87);
     color: #fff; }
     .btn.btn-primary:hover {
       background: #000;
