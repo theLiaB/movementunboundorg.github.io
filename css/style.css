@@ -1892,7 +1892,7 @@ figure figcaption {
       pointer-events: none; }
     .block-testimony-1 blockquote:before {
       border-color: rgba(255, 221, 64, 0);
-      border-top-color: #ffdd40;
+      border-top-color: rgb(252, 163, 17);
       border-width: 15px;
       margin-left: -15px; }
   .block-testimony-1 figure {
