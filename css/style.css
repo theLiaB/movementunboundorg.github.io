@@ -909,7 +909,7 @@ body:after {
     border-radius: 50%;
     border: 1px solid #ccc; }
   .site-block-27 ul li.active a, .site-block-27 ul li.active span {
-    background: #037ef3;
+    background: rgb(29, 53, 87);
     color: #fff;
     border: 1px solid transparent; }
 
@@ -1020,7 +1020,7 @@ body:after {
   margin-top: -100px; }
 
 .feature-1, .free-quote, .feature-3 {
-  background: #037ef3;
+  background: rgb(29, 53, 87);
   padding: 30px 50px;
   color: rgba(255, 255, 255, 0.6);
   font-size: 15px; }
@@ -1076,7 +1076,7 @@ body:after {
       font-style: italic; }
 
 .feature-3 {
-  background: #036cd0; }
+  background: rgb(29, 53, 87); }
 
 .border-primary {
   position: relative; }
@@ -1762,7 +1762,7 @@ figure figcaption {
 .service {
   padding: 30px; }
   .service .icon span {
-    color: #037ef3; }
+    color: rgb(29, 53, 87); }
 
 .trainers, .bg-primary {
   color: #567876; }
@@ -1908,7 +1908,7 @@ figure figcaption {
       -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
       transform: translateX(-50%);
-      background: #037ef3;
+      background: rgb(29, 53, 87);
       height: 2px; }
     .block-testimony-1 figure img {
       max-width: 70px; }
