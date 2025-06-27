@@ -1200,7 +1200,7 @@ body:after {
     .popular-category:hover .icon {
       color: #fff; }
     .popular-category:hover .number {
-      background: #0371da;
+      background: rgb(29, 53, 87);
       color: #fff; }
 
 @media (max-width: 1199.98px) {
