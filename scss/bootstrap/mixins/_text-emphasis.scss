@@ -4,7 +4,7 @@
 
 @mixin text-emphasis-variant($parent, $color) {
   #{$parent} {
-    color: rgb(29, 53, 87) !important;
+    color: $color !important;
   }
   @if $emphasized-link-hover-darken-percentage != 0 {
     a#{$parent} {
