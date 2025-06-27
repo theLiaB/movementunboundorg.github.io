@@ -410,7 +410,7 @@ $italic: 'Vollkorn', serif;
 			}
 			&.active {
 				a, span {
-					background: $primary;
+					background: rgb(29, 53, 87);
 					color: $white;
 					border: 1px solid transparent;
 				}
