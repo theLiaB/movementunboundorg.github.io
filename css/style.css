@@ -1868,7 +1868,7 @@ figure figcaption {
 .block-testimony-1 {
   padding: 20px; }
   .block-testimony-1 blockquote {
-    background: rgb(252, 163, 17);
+    background: #ffc0a9;
     padding: 30px;
     font-style: italic;
     font-weight: 400;
@@ -1892,7 +1892,7 @@ figure figcaption {
       pointer-events: none; }
     .block-testimony-1 blockquote:before {
       border-color: rgba(255, 221, 64, 0);
-      border-top-color: rgb(252, 163, 17);
+      border-top-color: #ffc0a9;
       border-width: 15px;
       margin-left: -15px; }
   .block-testimony-1 figure {
