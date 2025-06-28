@@ -587,9 +587,9 @@ body:after {
     overflow: hidden; }
   .site-blocks-cover, .site-blocks-cover > .container > .row {
     height: calc(60vh);
-    min-height: 300px; }
+    min-height: 400px; }
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover > .container > .row {
-    min-height: 300px;
+    min-height: 400px;
     height: calc(20vh); }
   @media (max-width: 991.98px) {
     .site-blocks-cover .intro-text {
