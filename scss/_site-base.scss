@@ -159,9 +159,9 @@ body {
 		color: $white;
 	}
 	a {
-		color: lighten($black, 60%); 
+		color: lighten(#1d3557, 60%); 
 		&:hover {
-			color: lighten($black, 100%); 
+			color: lighten(#1d3557, 100%); 
 		}
 	}
 	ul {
